@@ -8,7 +8,7 @@ I look for ways to solve the problem using technology while considering the user
 
 Currently, I am on a journey on converting messy data to meaningful insights. 
 
-My data analysis toolkit are SQL, Excel, PowerBI and Tableau. But I am leaning towards understanding more on AI like ClaudeCode,N8N and Open Claw.
+My data analysis toolkit are SQL, Excel, PowerBI and Tableau. But I am leaning towards understanding more on AI like ClaudeCode, n8n and Open Claw.
 
 My Github is still work in progress and will be posting my projects. Although not all my projects are technical, I am planning to post them soon. My current favorite so far was a Marketing Communication Porfolio for my sister's AirBnB business.
 
