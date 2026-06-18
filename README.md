@@ -18,6 +18,6 @@ I am maximizing my time while am still in Uni by trying my best to present in cl
 
 Fun Facts:
  - I like building computers
- - I play badminton every week
- - My favorite game is Anno 1880
+ - :sunrise_over_mountains: I love visiting stunning gorges
+ - :video_game: My favorite game is Anno 1880
  - Hobbies: Photography, Gaming, Movies, Anime
