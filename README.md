@@ -17,7 +17,7 @@ Also, I am an international student here in New Zealand and I am focusing toward
 I am maximizing my time while am still in Uni by trying my best to present in class guided by the book: Storytelling with You by Cole Nussbaumer Knaflic, which I believe an effective way to make keynote standout.
 
 Fun Facts:
- - I like building computers
+ - :computer: I like building computers
  - :sunrise_over_mountains: I love visiting stunning gorges
  - :video_game: My favorite game is Anno 1880
  - Hobbies: Photography, Gaming, Movies, Anime
