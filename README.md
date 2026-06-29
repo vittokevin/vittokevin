@@ -2,7 +2,7 @@
 
 I am Kevin, a data analyst based in New Zealand
 
-I'm known for my ability to quickly learn and adapt to new technology to help others navigate and embrace the tools of today.
+I help teams trust and rely on their data by documenting every step of the analysis and presenting insights in clear straightforward way. 
 
 I look for ways to solve the problem using technology while considering the user and longevity.
 
